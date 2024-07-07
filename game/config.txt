@@ -1,0 +1,7 @@
+Game_name:这是GalGame啊！;
+Game_key:2a84d1752346558;
+Title_img:haikeisozai_kouen11.png;
+Title_bgm:Summer Memories.ogg;
+Textbox_theme:imss;
+Description:一个小Demo;
+Package_name:;

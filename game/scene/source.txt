@@ -1,0 +1,2 @@
+intro:BGM：|Other Music Pack：https://aoha-music.itch.io/unique-track|Rain：https://kytra.itch.io/real-rain-and-thunder-audio -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:GC/Background：|https://alte.itch.io/park -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
